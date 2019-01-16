@@ -1,0 +1,2 @@
+# DependencyResolver
+.NET Dependency Resolver
