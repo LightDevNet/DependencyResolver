@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>0.1.0</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Dependency Resolver</Description>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/LightDevNet/DependencyResolver/master/LICENSE</PackageLicenseUrl>
+    <Copyright></Copyright>
+    <Authors>Alexandr Sitdikov</Authors>
+    <PackageProjectUrl>https://github.com/LightDevNet/DependencyResolver</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/LightDevNet/DependencyResolver</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>DependencyResolver;Dependency</PackageTags>
+  </PropertyGroup>
+
+</Project>
